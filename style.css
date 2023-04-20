@@ -2,3 +2,8 @@
     body background col
     body ::backdrop colour blockquote
 }
+
+{ 
+    this is body switch :only-of-type
+
+}
